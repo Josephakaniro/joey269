@@ -2,7 +2,7 @@ import speech_recognition as sr
 
 m = sr.Recognizer()
 
-#file = sr.AudioFile('AUD-20220823-WA0041.wav')
+#file = sr.AudioFile('bbb.wav')
 
 mic = sr.Microphone()
 
